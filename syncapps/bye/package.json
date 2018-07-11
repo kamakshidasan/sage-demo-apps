@@ -1,0 +1,14 @@
+{
+  "name": "syncapps",
+  "version": "1.0.0",
+  "main": "syncapps.js",
+  "devDependencies": {
+    "eslint": "latest"
+  },
+  "scripts": {
+    "lint": "eslint -c eslintrc syncapps.js"
+  },
+  "author": "Luc Renambot <renambot@gmail.com>",
+  "license": "BSD-2-Clause",
+  "description": "SAGE2 application syncapps"
+}

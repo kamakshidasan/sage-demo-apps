@@ -1,0 +1,22 @@
+{
+	"main_script": "zoom.js",
+	"icon": "zoom.png",
+	"width": 900,
+	"height": 506,
+	"resize": "free",
+	"dependencies": [
+		"openseadragon.min.js"
+	],
+        "load": {
+		"file": ""
+        },
+	"removeFromLauncher": false,
+	"fileTypes": [ "dzi" ],
+	"directory": "dzi",
+	"title": "Deep Zoom Image",
+	"version": "1.0.0",
+	"description": "High-resolution Image Viewer using the Openseadragon API",
+	"keywords": [ "openseadragon", "image", "viewer" ],
+	"author": "Luc Renambot <renambot@gmail.com>",
+	"license": "SAGE2-Software-License"
+}

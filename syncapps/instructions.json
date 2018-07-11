@@ -1,0 +1,19 @@
+{
+	"main_script": "syncapps.js",
+	"icon": "syncapps.png",
+	"width": 800,
+	"height": 600,
+	"resize": "free",
+	"animation": false,
+	"dependencies": [
+	],
+	"load": {
+		"color": "blue"
+	},
+	"title": "syncapps",
+	"version": "1.0.0",
+	"description": "SAGE2 application syncapps",
+	"keywords": [ "sage2", "syncapps", "test", "tutorial", "variable" ],
+	"author": "Luc Renambot <renambot@gmail.com>",
+	"license": "SAGE2-Software-License"
+}

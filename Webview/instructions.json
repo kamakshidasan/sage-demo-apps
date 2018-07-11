@@ -1,0 +1,24 @@
+{
+	"main_script": "Webview.js",
+	"icon": "Webview.png",
+	"width": 1280,
+	"height": 720,
+	"resize": "free",
+	"animation": false,
+	"dependencies": [
+	],
+	"load": {
+		"url": "/uploads/web/index.html",
+		"favicon": "",
+		"zoom": 1,
+		"mode": "desktop"
+	},
+	"title": "Webview",
+	"version": "1.0.0",
+        "fileTypes": [ "html", "htm", "ipynb" ],
+        "directory": "web",
+	"description": "SAGE2 application Webview",
+	"keywords": [ "sage2", "Webview" ],
+	"author": "Luc Renambot <renambot@gmail.com>",
+	"license": "SAGE2-Software-License"
+}

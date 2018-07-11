@@ -1,0 +1,24 @@
+{
+	"main_script": "tsunamiwall.js",
+	"icon": "/images/img.png",
+	"width": 800,
+	"height": 600,
+	"resize": "free",
+	"animation": false,
+	"dependencies": [
+		"node_modules/cesium/Build/Cesium/Cesium.js",
+		"node_modules/cesium/Build/Cesium/Widgets/widgets.css",
+		"scripts/three.min.js",
+		"scripts/jquery-1.11.3.min.js",
+		"scripts/main.js"
+	],
+	"load": {
+		"value": 4
+	},
+	"title": "tsunamiwall",
+	"version": "1.0.0",
+	"description": "SAGE2 application tsunamiwall",
+	"keywords": [ "sage2", "tsunamiwall" ],
+	"author": "amanda ibsen <amanda.ibsen@inria.cl>",
+	"license": "SAGE2-Software-License"
+}
